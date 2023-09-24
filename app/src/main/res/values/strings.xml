@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Сutaway_kotlin</string>
+    <string name="name_text">Egor Funikov</string>
+    <string name="desc_text">Android Developer</string>
+</resources>
